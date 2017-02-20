@@ -4,9 +4,7 @@
  * 	Description:	ViewController to manage the API entry view in RPDeviceStatus
  */
 
-using Foundation;
 using System;
-using System.CodeDom.Compiler;
 using UIKit;
 
 namespace RPDeviceStatus

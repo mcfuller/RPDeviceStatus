@@ -5,12 +5,7 @@
  * 				Mono Framework for an iOS application. 
  * 
  * 				HDXDevice Class: Contains methods for interacting with and administering Polycom HDX
- * 				systems using the CGI API command structure (HTTP). API commands are passed as
- * 				strings, and if this is done programmatically (not through the APICommandForm input)
- * 				then all spaces between arguments in the string must be replaced with '%20' as in
- * 				'systemname%20get'. To accommodate HDXs that may have the Sessions List feature
- * 				enabled, each request is preceded by a "dummy" request that is used to capture the
- * 				session_id to add to the header of the real request.
+ * 				systems using the CGI API command structure (HTTP). 
  */
 
 using System;

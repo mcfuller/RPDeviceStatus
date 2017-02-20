@@ -1,14 +1,11 @@
 ﻿/*
  * 	File:		GroupSeriesJSONObjects.cs
  * 	Author:		Matthew Fuller
- * 	Desc:		Provides nested classes for capturing various JSON responses from the REST API
+ * 	Desc:		Provides classes for capturing various JSON responses from the REST API
  * 				of Polycom Group Series systems.
  */
 
-using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics;
 
 public class GroupSeriesJSONObjects
 {
